@@ -544,6 +544,12 @@ video {
   }
 }
 
+@media (min-width: 1024px) {
+  .container {
+    max-width: 1024px;
+  }
+}
+
 @media (min-width: 1440px) {
   .container {
     max-width: 1440px;
@@ -742,9 +748,9 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 1280px) {
   .container {
-    max-width: 1024px;
+    max-width: 1024px !important;
   }
 }
 

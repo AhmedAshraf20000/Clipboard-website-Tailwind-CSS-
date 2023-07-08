@@ -8,8 +8,9 @@ module.exports = {
       sm: '480px',
       md: '768px',
       lg: '976px',
+      cs: '1024px',
       xl: '1440px',
-      max:{'max':'768px'},
+      max: { 'max': '768px' },
     },
     extend: {
       colors: {
