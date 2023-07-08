@@ -816,13 +816,6 @@ video {
   }
 }
 
-@media (min-width: 976px) {
-  .lg\:px-4 {
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-}
-
 @media (max-width: 768px) {
   .max\:w-\[165px\] {
     width: 165px;
