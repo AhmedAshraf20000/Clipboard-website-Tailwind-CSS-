@@ -1,4 +1,4 @@
-A responsive template created using HTML-CSS
+A responsive template created using HTML-Tailwind CSS
 
 For watching the template:
 
