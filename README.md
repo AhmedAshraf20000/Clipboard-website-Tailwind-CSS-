@@ -1,14 +1,14 @@
 # Project Title
 
-Leon Template
+Clipboard Template
 
 ## Getting Started
 
-This template is only for applying my skills on the web design using the simplest tools.
+This template is only for applying my skills on the web design using the tailwind css.
 
 ### Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)
 
 ### Installing
 
