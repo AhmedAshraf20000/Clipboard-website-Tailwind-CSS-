@@ -1,5 +1,19 @@
-A responsive template created using HTML-Tailwind CSS
+# Project Title
 
-For watching the template:
+Clipboard Template
 
-https://ahmedashraf20000.github.io/HTML-CSS-Template-2/
+## Getting Started
+
+This template is only for applying my skills on the web design using the tailwind css.
+
+### Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)
+
+### Installing
+
+Just clone the repo and run it on the the live server.
+
+### Live demo
+
+You can visit the website through this link [live demo](https://s-l-a-y-e-r.github.io/Clipboard-website-Tailwind-CSS-/)
