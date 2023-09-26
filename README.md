@@ -16,4 +16,4 @@ Just clone the repo and run it on the the live server.
 
 ### Live demo
 
-You can visit the website through this link [live demo](https://s-l-a-y-e-r.github.io/Clipboard-website-Tailwind-CSS-/)
+You can visit the website through this link [live demo](https://clipboard-website-tailwind-css.vercel.app/)
